@@ -1,0 +1,30 @@
+{
+  "name": "@w-lfpup/fractors",
+  "version": "0.1.0",
+  "description": "Automatons as variance for digital signals",
+  "main": "dist/mod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-lfpup/fractors-js.git"
+  },
+  "keywords": [
+    "DSP",
+    "variance",
+    "randomness"
+  ],
+  "author": "Brian Taylor Vann",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/w-lfpup/fractors-js/issues"
+  },
+  "homepage": "https://github.com/w-lfpup/fractors-js#readme",
+  "devDependencies": {
+    "@w-lfpup/jackrabbit": "^0.3.3",
+    "@w-lfpup/timestep": "^0.1.1",
+    "prettier": "^3.9.4",
+    "typescript": "^6.0.3"
+  }
+}
